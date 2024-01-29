@@ -57,4 +57,27 @@ h1{
     margin-top: 1%;
 }
 
-.cella
+.row1{
+    background-color:rgb(0, 26, 255) ;
+    color: white;
+}
+
+.row2{
+    background-color: aquamarine;
+}
+
+.piè{
+    color: rgba(150, 162, 173, 0.607);
+}
+
+.img1{
+    padding-bottom: 14%;
+     color: white;
+    margin-top: -19%;
+}
+
+.img2{
+    padding-bottom: 14%;
+  color: white;
+  margin-top: -19%;
+}
