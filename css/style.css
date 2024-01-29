@@ -1,0 +1,10 @@
+header{
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    
+}
+
+main{
+    width: 1000px;
+    margin:auto;
+}
