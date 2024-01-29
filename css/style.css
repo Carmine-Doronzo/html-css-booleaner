@@ -45,3 +45,8 @@ main{
 .evidenza{
     background-color: yellow;
 }
+
+footer{
+    width: 80%;
+    margin: auto;
+}
