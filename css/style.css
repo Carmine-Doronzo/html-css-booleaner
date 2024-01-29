@@ -1,15 +1,43 @@
-header{
-    background-color: aqua;
-    background-image: url(../img/pattern.png);
-    
-}
-
-main{
-    width: 1000px;
+body{
     margin:auto;
 }
 
-ul{
-    margin:auto
+header{
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    height: 20%;
     
+}
+
+.int{
+    padding-left: 20%;
+}
+
+main{
+    width: 80%;
+    margin:auto;
+}
+
+.fonti{
+    margin:auto;
+    list-style: none;
+    padding: 0%;
+    font-size: small;
+    
+}
+
+.booleaner{
+    color: blue;
+}
+
+.spazio{
+    margin: -2%;
+    padding-left: 2%;
+    font-size: 12px;
+
+}
+
+.spazio1{
+	font-size: 10px;
+	margin-top: 2%;
 }
