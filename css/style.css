@@ -89,13 +89,5 @@ table{
 }
 
 .td1{
-    padding: 0;
-    padding-top: 11px;
-    padding-bottom: 21px;
-    padding-left: 86px;
-    padding-right: 114px;
-}
-
-.td2{
-    padding: 0;
+width: 30%;
 }
