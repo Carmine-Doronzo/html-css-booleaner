@@ -81,3 +81,11 @@ h1{
   color: white;
   margin-top: -19%;
 }
+
+td,th{
+    padding:15px;
+}
+
+table{
+    border-spacing: 0px;
+}
